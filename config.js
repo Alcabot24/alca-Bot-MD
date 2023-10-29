@@ -8,28 +8,27 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5214437863111', '👑 𝙲𝚁𝙴𝙰𝙳𝙾𝚁👑', true],
-  ['50576390682', '✦𝙲𝚄𝚂𝚃𝙾𝙼𝙴𝚁 𝚂𝚄𝙿𝙿𝙾𝚁𝚃✦', true],
-  ['5217294888993'],['573106040746'],['51929972576'],['51992004117'],['5214432220783'],
+  ['528142113343', '💥 𝘼𝙇𝘾𝘼𝘽𝙊𝙏 ', true],
+  ['528241050228', '✦𝙲𝚄𝚂𝚃𝙾𝙼𝙴𝚁 𝚂𝚄𝙿𝙿𝙾𝚁𝚃✦', true],
 ];
 
 global.suittag = ['51992004117']
 global.prems = ['51992004127']
 global.packname = '☯︎ 𝙱𝙾𝚃\n☯︎ 𝙾𝚆𝙽𝙴𝚁';
 global.author = 'ʜᴀᴄʜɪᴋᴏ-ʙᴏᴛ-ᴍᴅ\nʜᴀᴄʜᴇᴊᴏᴛᴀ';
-global.wm = '𝙷𝙰𝙲𝙷𝙸𝙺𝙾-𝙱𝙾𝚃-𝙼𝙳';
-global.titulowm = '🤖 𝐇𝐀𝐂𝐇𝐈𝐊𝐎 － 𝐁𝐎𝐓 🤖';
-global.titulowm2 = `乂  𝐇 𝐀 𝐂 𝐇 𝐈 𝐊 𝐎 - 𝐁 𝐎 𝐓 - 𝐌 𝐃 乂`
-global.igfg = '✪𝐇𝐚𝐜𝐡𝐢𝐤𝐨 - 𝐁𝐨𝐭✪';
+global.wm = '𝘼𝙇𝘾𝘼－𝐁𝐎𝐓';
+global.titulowm = '🫰🏻 𝘼𝙇𝘾𝘼－𝐁𝐎𝐓 🫰🏻';
+global.titulowm2 = `𝙰𝚕𝚌𝚊𝚅𝚎𝚗𝚝𝚊𝚜 𝙴𝚕 𝙼𝚎𝚓𝚘𝚛 𝙱𝚘𝚝`
+global.igfg = '𝘼𝙇𝘾𝘼－𝐁𝐎𝐓';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6= fs.readFileSync('./Menu3.png');
-global.imagen7= fs.readFileSync('./src/hjbot.jpg');
+global.imagen2 = fs..readFileSync('./alca.png');
+global.imagen3 = fs..readFileSync('./alca.png');
+global.imagen4 = fs.readFileSync('./alca.png');
+global.imagen5 = fs..readFileSync('./alca.png');
+global.imagen6= fs.readFileSync('./alca.png');
+global.imagen7= fs..readFileSync('./alca.png');
 global.mods = [];
 
 //* *******Tiempo***************
